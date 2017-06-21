@@ -43,6 +43,10 @@
 * [Expanding a Workload Domain](https://youtu.be/ggk4u9yLBXk)
 * [Deleting a Workload Domain](https://youtu.be/eWNdrDG-_hY)
 
+### Lightboard Videos
+
+* [Enabling the Hybrid Cloud with VMware Cloud Foundation](https://youtu.be/Cz-8njTui70)
+
 ## VMworld Sessions
 
 ### 2017
@@ -68,4 +72,3 @@ Leave a comment on the [VMware Cloud Foundation community](https://communities.v
 ## Thanks
 
 Thanks to [@lamw](https://twitter.com/lamw) for inspiring me to create this quick reference.
-
