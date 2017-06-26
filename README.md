@@ -51,6 +51,8 @@
 
 ### 2017
 
+VMworld 2017 US
+
 ####Breakout Sessions:
 * [PBO1486BU] - VMware Cloud Foundation Solution Overview
 * [PBO1222BU] - VMware Cloud Foundation Architecture Deep Dive
@@ -80,9 +82,30 @@
 ####Partner Exchange
 * [PAR4362BU] - Seize the Hybrid Cloud Opportunity Holistically with VMware Cloud Foundationn
 * [PAR4363BU] - Leap Your Customers to a True Hybrid Cloud with VMware Cloud Foundation
+* [TAP4370BE] - VMware Cloud Foundation: What, Why, and How?
 
+VMworld 2017 Europe
 
+###Breakout Sessions:
+* [PBO1222BU] - VMware Cloud Foundation Architecture Deep Dive
+* [PBO2797BU] - VMware Cloud Foundation Futures
+* [PBO3135SE] - Simple, Agile, Secure: VMware Cloud Foundation, the Next-Generation Hybrid Cloud Platform
+* [PBO1757BU] - Configuring a Hybrid Cloud with VMware Cloud Foundation: A Technical Deep Dive
+* [PBO1254BU] - Automating Horizon 7.x Deployments with VMware Cloud Foundation
+* [PBO1677BU] - VMware Cloud Foundation Disaster Recovery Options
+* [PBO2073BU] - Enterprise Protection and Reliability for VMware Cloud Foundation with Cohesity
+* [PBO2864BU] - Case Study: VMware Cloud Foundation–Powered Private Cloud, Including Hands-on Labs
+* [PBO2182BU] - VMware Cloud Foundation: Real-World Deployment Experiences from Professional Services Engineering
+* [PBO1064BU] - VxRack SDDC Deep Dive: Inside VxRack SDDC Powered by VMware Cloud Foundation
 
+####Group Discussion
+* [PBO3161GUR] - VMware Cloud Foundation–Based Hybrid Cloud
+* [PBO1224GUR] - Modernizing Your Data Center with VMware Cloud Foundation
+* [PBO3160GUR] - VMware Cloud Foundation and Horizon VDI
+
+####Partner Exchange
+* [PAR4362BU] - Seize the Hybrid Cloud Opportunity Holistically with VMware Cloud Foundationn
+* [PAR4363BU] - Leap Your Customers to a True Hybrid Cloud with VMware Cloud Foundation
 
 ### 2016
 
