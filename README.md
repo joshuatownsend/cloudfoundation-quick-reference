@@ -53,7 +53,7 @@
 
 VMworld 2017 US
 
-####Breakout Sessions:
+#### Breakout Sessions:
 * [PBO1486BU] - VMware Cloud Foundation Solution Overview
 * [PBO1222BU] - VMware Cloud Foundation Architecture Deep Dive
 * [PBO1677BU] - VMware Cloud Foundation Disaster Recovery Options
@@ -68,25 +68,25 @@ VMworld 2017 US
 * [PBO1064BU] - VxRack SDDC Deep Dive: Inside VxRack SDDC Powered by VMware Cloud Foundation
 * [PBO2541BU] - IBM Cloud: Delivering Key Value Services Using VMware Cloud Foundation
 
-####Quick Talk
+#### Quick Talk
 * [PBO1489QU] - Building a Successful Business Case with VMware Cloud Foundation
 
-####Instructor Led Workshops
+#### Instructor Led Workshops
 * [ELW189901U] - VMware Cloud Foundation Workshop
 
-####Group Discussion
+#### Group Discussions
 * [PBO3161GUR] - VMware Cloud Foundation–Based Hybrid Cloud
 * [PBO1224GUR] - Modernizing Your Data Center with VMware Cloud Foundation
 * [PBO3160GUR] - VMware Cloud Foundation and Horizon VDI
 
-####Partner Exchange
+#### Partner Exchange
 * [PAR4362BU] - Seize the Hybrid Cloud Opportunity Holistically with VMware Cloud Foundationn
 * [PAR4363BU] - Leap Your Customers to a True Hybrid Cloud with VMware Cloud Foundation
 * [TAP4370BE] - VMware Cloud Foundation: What, Why, and How?
 
 VMworld 2017 Europe
 
-###Breakout Sessions:
+#### Breakout Sessions:
 * [PBO1222BU] - VMware Cloud Foundation Architecture Deep Dive
 * [PBO2797BU] - VMware Cloud Foundation Futures
 * [PBO3135SE] - Simple, Agile, Secure: VMware Cloud Foundation, the Next-Generation Hybrid Cloud Platform
@@ -98,12 +98,12 @@ VMworld 2017 Europe
 * [PBO2182BU] - VMware Cloud Foundation: Real-World Deployment Experiences from Professional Services Engineering
 * [PBO1064BU] - VxRack SDDC Deep Dive: Inside VxRack SDDC Powered by VMware Cloud Foundation
 
-####Group Discussion
+#### Group Discussions
 * [PBO3161GUR] - VMware Cloud Foundation–Based Hybrid Cloud
 * [PBO1224GUR] - Modernizing Your Data Center with VMware Cloud Foundation
 * [PBO3160GUR] - VMware Cloud Foundation and Horizon VDI
 
-####Partner Exchange
+#### Partner Exchange
 * [PAR4362BU] - Seize the Hybrid Cloud Opportunity Holistically with VMware Cloud Foundationn
 * [PAR4363BU] - Leap Your Customers to a True Hybrid Cloud with VMware Cloud Foundation
 
