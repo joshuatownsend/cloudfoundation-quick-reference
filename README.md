@@ -49,9 +49,7 @@
 
 ## VMworld Sessions, Workshops, and Group Discussions
 
-### 2017
-
-VMworld 2017 US
+### 2017 US
 
 #### Breakout Sessions:
 * [PBO1486BU] - VMware Cloud Foundation Solution Overview
@@ -68,7 +66,7 @@ VMworld 2017 US
 * [PBO1064BU] - VxRack SDDC Deep Dive: Inside VxRack SDDC Powered by VMware Cloud Foundation
 * [PBO2541BU] - IBM Cloud: Delivering Key Value Services Using VMware Cloud Foundation
 
-#### Quick Talk
+#### Quick Talks
 * [PBO1489QU] - Building a Successful Business Case with VMware Cloud Foundation
 
 #### Instructor Led Workshops
@@ -84,7 +82,7 @@ VMworld 2017 US
 * [PAR4363BU] - Leap Your Customers to a True Hybrid Cloud with VMware Cloud Foundation
 * [TAP4370BE] - VMware Cloud Foundation: What, Why, and How?
 
-VMworld 2017 Europe
+### 2017 Europe
 
 #### Breakout Sessions:
 * [PBO1222BU] - VMware Cloud Foundation Architecture Deep Dive
