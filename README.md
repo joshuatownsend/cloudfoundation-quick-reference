@@ -24,7 +24,7 @@
 * [Hands-on Lab Simulation](http://vmware.com/go/cloudfoundation-hol)
 * [Fundamentals Course](http://vmware.com/go/cloudfoundation-fundamentals)
 * [Compatibility Guide](http://vmware.com/go/cloudfoundation-vcg)
-* [Cloud Foundation Planner](http://vmware.com/go/cloudfoundation-planner)
+* [Capacity Planner](http://vmware.com/go/cloudfoundation-planner)
 * [Poster](http://vmware.com/go/cloudfoundation-poster)
 
 ### Overview Videos
@@ -52,36 +52,20 @@
 
 ### 2017 US
 
-#### Breakout Sessions:
-* PBO1486BU - VMware Cloud Foundation Solution Overview
-* PBO1222BU - VMware Cloud Foundation Architecture Deep Dive
-* PBO1677BU - VMware Cloud Foundation Disaster Recovery Options
-* PBO1757BU - Configuring a Hybrid Cloud with VMware Cloud Foundation: A Technical Deep Dive
+#### Session Recordings:
+* [PBO3135SU - Simple, Agile, Secure: VMware Cloud Foundation, the Next-Generation Hybrid Cloud Platform](https://youtu.be/ymEGO-0beCY)
+* [PBO1222BU - VMware Cloud Foundation Architecture Deep Dive](https://youtu.be/O7pSfX3g2h4)
+* [PBO1677BU - VMware Cloud Foundation Disaster Recovery Options](https://youtu.be/zl-Plc3Q1fU)
+* [PBO1757BU - Configuring a Hybrid Cloud with VMware Cloud Foundation: A Technical Deep Dive](https://youtu.be/2-4Fnmt2tBU)
 * PBO1254BU - Automating Horizon 7.x Deployments with VMware Cloud Foundation
-* PBO2073BU - Enterprise Protection and Reliability for VMware Cloud Foundation with Cohesity
-* PBO1507BU - How Customers Are Leveraging VMware Cloud Foundation to Achieve Their Business Imperatives
-* PBO2695BU - Simplified SDDC Operational Management in VMware Cloud Foundation with vRealize Operations and vRealize Log Insight
-* PBO2182BU - VMware Cloud Foundation: Real-World Deployment Experiences from Professional Services Engineering
-* PBO2864BU - Case Study: VMware Cloud Foundation–Powered Private Cloud, Including Hands-on Labs
-* PBO2797BU - VMware Cloud Foundation Futures
-* PBO1064BU - VxRack SDDC Deep Dive: Inside VxRack SDDC Powered by VMware Cloud Foundation
-* PBO2541BU - IBM Cloud: Delivering Key Value Services Using VMware Cloud Foundation
-
-#### Quick Talks
-* PBO1489QU - Building a Successful Business Case with VMware Cloud Foundation
-
-#### Instructor Led Workshops
-* ELW189901U - VMware Cloud Foundation Workshop
-
-#### Group Discussions
-* PBO3161GUR - VMware Cloud Foundation–Based Hybrid Cloud
-* PBO1224GUR - Modernizing Your Data Center with VMware Cloud Foundation
-* PBO3160GUR - VMware Cloud Foundation and Horizon VDI
-
-#### Partner Exchange
-* PAR4362BU - Seize the Hybrid Cloud Opportunity Holistically with VMware Cloud Foundationn
-* PAR4363BU - Leap Your Customers to a True Hybrid Cloud with VMware Cloud Foundation
-* TAP4370BE - VMware Cloud Foundation: What, Why, and How?
+* [PBO2073BU - Enterprise Protection and Reliability for VMware Cloud Foundation with Cohesity](https://youtu.be/tE1wa_mUhwY)
+* [PBO2695BU - VMware Cloud Foundation Operational Management](https://youtu.be/DWgoJD75K8o)
+* [PBO2182BU - VMware Cloud Foundation: Real-World Deployment Experiences from Professional Services Engineering](https://youtu.be/BNmnfwE_jFE)
+* [PBO2797BU - VMware Cloud Foundation Futures](https://youtu.be/T8wGTnBGvT4)
+* [PBO1064BU - VxRack SDDC Deep Dive: Inside VxRack SDDC Powered by VMware Cloud Foundation](https://youtu.be/kcy1GhBOEec)
+* [PBO2541BU - IBM Cloud: Delivering Key Value Services Using VMware Cloud Foundation](https://youtu.be/vMx4971s950)
+* [PBO1437BU - Infrastructure Automation in VMware Cloud Foundation Using vRealize Automation](https://youtu.be/amoCH-HfclY)
+* [LHC3384BUS - Lessons Learned: VMware Cloud Foundation on IBM Cloud](https://youtu.be/DXzaajaLU00)
 
 ### 2017 Europe
 
