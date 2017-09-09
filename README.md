@@ -9,7 +9,7 @@
 
 **Follow Cloud Foundation:**
 
-* Twitter [@vmwCF](https://twitter.com/vmwCF) [@VMwareSDDC](https://twitter.com/VMwareSDDC)
+* Twitter [@vmwCF](https://twitter.com/vmwCF)
 * YouTube [vmware.com/go/cloudfoundation-videos](http://vmware.com/go/cloudfoundation-videos)
 * Blog [blogs.vmware.com/cloud-foundation/](https://blogs.vmware.com/cloud-foundation/)
 * Events [vmware.com/go/cloudfoundation-events](http://vmware.com/go/cloudfoundation-events)
@@ -24,6 +24,7 @@
 * [Hands-on Lab Simulation](http://vmware.com/go/cloudfoundation-hol)
 * [Fundamentals Course](http://vmware.com/go/cloudfoundation-fundamentals)
 * [Compatibility Guide](http://vmware.com/go/cloudfoundation-vcg)
+* [Cloud Foundation Planner](http://vmware.com/go/cloudfoundation-planner)
 * [Poster](http://vmware.com/go/cloudfoundation-poster)
 
 ### Overview Videos
